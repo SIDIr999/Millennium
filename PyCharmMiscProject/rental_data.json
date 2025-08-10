@@ -1,0 +1,22 @@
+{
+  "pending": {
+    "90bb4b51": {
+      "request_id": "90bb4b51",
+      "user_id": 5643226867,
+      "username": "SIDIr_Elites",
+      "full_name": "Firdavs Davlatov",
+      "cabin": "Кабина - 2",
+      "photo_file_id": "AgACAgIAAxkBAAMFaJe9ojyc2lPu1HxGRY9naDpmH0oAAnr0MRvCGcFIR9dfcoCV7PUBAAMCAANtAAM2BA",
+      "status": "confirmed"
+    },
+    "09f3932d": {
+      "request_id": "09f3932d",
+      "user_id": 5643226867,
+      "username": "SIDIr_Elites",
+      "full_name": "Firdavs Davlatov",
+      "cabin": "Голд кабина - 2",
+      "photo_file_id": "AgACAgIAAxkBAAMFaJe9ojyc2lPu1HxGRY9naDpmH0oAAnr0MRvCGcFIR9dfcoCV7PUBAAMCAANtAAM2BA",
+      "status": "confirmed"
+    }
+  }
+}
